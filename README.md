@@ -13,7 +13,7 @@ This project focuses on training a machine learning model for predicting heart d
 
 # Learning Resource
 
-This project was completed as part of the final lab of an Artificial Intelligence course at Misurata University's Faculty of Information Technology. The primary resource utilized from [thecleverprogrammer.com](https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning), and the dataset was sourced from [kaggle.com](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). After implementing necessary adjustments and improvements to achieve optimal results, a comprehensive Arabic report was uploaded to [ Google Drive](https://docs.google.com/document/d/1v62QrMNJe7GEWeeinV9ewi-mqjMWfpFBnR80F6XT8M0/edit?usp=sharing).
+This project was completed as part of the final lab of an Artificial Intelligence course at Misurata University's Faculty of Information Technology. The primary resource utilized from [thecleverprogrammer.com](https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning), and the dataset was sourced from [kaggle.com](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). After implementing necessary adjustments and improvements to achieve optimal results, a comprehensive Arabic report was uploaded to [ Google Drive](https://drive.google.com/file/d/1_Z1MVwywCDLnDQZCKKMx1_Ar3V34WALP/view?usp=sharing).
 
 ## Installation
 
