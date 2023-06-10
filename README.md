@@ -25,3 +25,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r requirements.txt
 ```
 I recommend using [Anaconda](https://www.anaconda.com/download) for your project. It's designed specifically for data science and scientific computing, and includes a package manager and environment management tools that make it easy to install and manage packages and dependencies. Plus, it comes with pre-installed libraries and tools like Jupyter Notebook, Spyder, and RStudio, so you can get started quickly and easily.
+
+## Results
+These results that were obtained during the training process of the machine learning models.
+
+![results](https://img.firas.ly/ai.png)
